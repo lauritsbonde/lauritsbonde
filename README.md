@@ -1,5 +1,6 @@
 # 💫 About Me:
 🎓 I am studiyng Computer Science at IT University of Copenhagen
+
 🐝 I am currently working at Acembee as a Sofware Developer
 
 
