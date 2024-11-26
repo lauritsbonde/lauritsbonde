@@ -3,6 +3,8 @@
 
 🐝 I am currently working at Acembee as a Sofware Developer
 
+My current hobby project is [Fetchlitycs.dev](fethclytics.dev), feel free to check it out!
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laurits-bonde-a96b121b9/)
