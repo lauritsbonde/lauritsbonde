@@ -3,7 +3,7 @@
 
 🐝 I am currently working at Acembee as a Sofware Developer
 
-My current hobby project is [Fetchlitycs.dev](fethclytics.dev), feel free to check it out!
+My current hobby project is [fetchlitycs.dev](https://fethclytics.dev), feel free to check it out!
 
 
 ## 🌐 Socials:
