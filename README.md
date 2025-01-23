@@ -1,7 +1,7 @@
 # 💫 About Me:
 🎓 I am studiyng Computer Science at IT University of Copenhagen
 
-🐝 I am currently working at Acembee as a Sofware Developer
+🐝 I am currently working at Acembee as a Software Developer
 
 My current hobby project is [fetchlytics.dev](https://fetchlytics.dev/) feel free to check it out!
 
