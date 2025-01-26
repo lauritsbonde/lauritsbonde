@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🚧 I'm currently working on LogLite. A lightweight, easy-to-use, open-source logging app written in GO.<br><br>🚀 My last project was https://fetchlytics.dev/. A tool to get insights about your apps network requests<br><br>🧠 I am currently learning: GO, HTMX, and infrastructure.<br>
+🚧 I'm currently working on [LogLite](https://github.com/lauritsbonde/LogLite). A lightweight, easy-to-use, open-source logging app written in GO.<br><br>🚀 My last project was https://fetchlytics.dev/. A tool to get insights about your apps network requests<br><br>🧠 I am currently learning: GO, HTMX, and infrastructure.<br>
 
 # 💻 Tech Stack:
 
