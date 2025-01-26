@@ -3,7 +3,9 @@
 
 🐝 I am currently working at Acembee as a Software Developer
 
-My current hobby project is [fetchlytics.dev](https://fetchlytics.dev/) feel free to check it out!
+Current hobby project is [LogLite](https://github.com/lauritsbonde/LogLite)! Hopefully it turns out to be an opensource easy to use lightweight logging system. It is written in go and uses HTMX for the webapp.
+
+Last (stale) hobby project is [fetchlytics.dev](https://fetchlytics.dev/) feel free to check it out!
 
 
 ## 🌐 Socials:
