@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🚧 I'm currently working on [Webhoox](https://webhoox.dev/). A developer tool to help with webhook development and management, written in GO.<br><br>🚀 My last project was [FetchLytics](https://fetchlytics.dev/). A tool to get insights about your apps network requests<br><br>🧠 I am currently learning: GO, HTMX, and infrastructure.<br>
+🚧 I'm currently working on [Webhoox](https://webhoox.dev/). A developer tool to help with webhook development and management, written in GO.<br><br>🚀 My last project was [FetchLytics](https://fetchlytics.dev/). A tool to get insights about your apps network requests, written in Next.js<br><br>🧠 I am currently learning: GO, HTMX, and infrastructure.<br>
 
 # 💻 Tech Stack:
 
